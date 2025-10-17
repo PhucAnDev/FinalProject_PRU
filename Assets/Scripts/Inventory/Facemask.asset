@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce79383e6bf2b84a809e0f6691aefcc, type: 3}
+  m_Name: Facemask
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  itemName: FaceMark
+  itemDescription: "Kh\u1EA9u trang y t\u1EBF\n"
+  icon: {fileID: -2135608463210421372, guid: f6a10b17f10bade4f8ecf8f8956632a0, type: 3}
+  stackSize: 3
