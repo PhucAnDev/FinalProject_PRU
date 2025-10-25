@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 44b3476a2c6ebb34f9a8921ab2ab97c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1216609277083359833
+    second: fptShop_0
+  - first:
+      213: 6453587262296698410
+    second: fptShop_1
+  - first:
+      213: 4634577450714643849
+    second: fptShop_2
+  - first:
+      213: -9165493563616735665
+    second: fptShop_3
+  - first:
+      213: 4989123306039379928
+    second: fptShop_4
+  - first:
+      213: -718917142123784232
+    second: fptShop_5
+  - first:
+      213: -5345227962708654115
+    second: fptShop_6
+  - first:
+      213: 1354955216190131953
+    second: fptShop_7
+  - first:
+      213: 2478293109741022191
+    second: fptShop_8
+  - first:
+      213: 9114496486340815206
+    second: fptShop_9
+  - first:
+      213: -7073626282858143867
+    second: fptShop_10
+  - first:
+      213: -7405610489105075463
+    second: fptShop_11
+  - first:
+      213: 3896873636181476254
+    second: fptShop_12
+  - first:
+      213: -5141857256803930872
+    second: fptShop_13
+  - first:
+      213: -2364778153310337626
+    second: fptShop_14
+  - first:
+      213: -2144019941528381297
+    second: fptShop_15
+  - first:
+      213: -6432982624504613041
+    second: fptShop_16
+  - first:
+      213: 5810824932131253127
+    second: fptShop_17
+  - first:
+      213: -5156946054151236421
+    second: fptShop_18
+  - first:
+      213: 7543173670015762875
+    second: fptShop_19
+  - first:
+      213: 1772313962483376557
+    second: fptShop_20
+  - first:
+      213: 6148721918304561282
+    second: fptShop_21
+  - first:
+      213: -2710453693294055167
+    second: fptShop_22
+  - first:
+      213: 473984130250942730
+    second: fptShop_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fptShop_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1347
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a56001fe4cbd1fe0800000000000000
+      internalID: -1216609277083359833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 1386
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e2e282c6fbf8950800000000000000
+      internalID: 6453587262296698410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 709
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db1e9e2a3515040800000000000000
+      internalID: 4634577450714643849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 618
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ece7d2a20adc080800000000000000
+      internalID: -9165493563616735665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 618
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7891d963dec3540800000000000000
+      internalID: 4989123306039379928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 705
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7d5c01ba4e506f0800000000000000
+      internalID: -718917142123784232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 665
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd70447fc7fe1d5b0800000000000000
+      internalID: -5345227962708654115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 707
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe439b1794cdc210800000000000000
+      internalID: 1354955216190131953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 615
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb6967e37aa46220800000000000000
+      internalID: 2478293109741022191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 778
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669e3ee73423d7e70800000000000000
+      internalID: 9114496486340815206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 647
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f9f589f5e65dd90800000000000000
+      internalID: -7073626282858143867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 625
+        width: 127
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f23cfb2f7cf93990800000000000000
+      internalID: -7405610489105075463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 647
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e938e23fce9741630800000000000000
+      internalID: 3896873636181476254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_13
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 674
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80def62511474a8b0800000000000000
+      internalID: -5141857256803930872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_14
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 671
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a545577cce9e2fd0800000000000000
+      internalID: -2364778153310337626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_15
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 671
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d8d10939ee32e0800000000000000
+      internalID: -2144019941528381297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_16
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 655
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47742ce26479b6a0800000000000000
+      internalID: -6432982624504613041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_17
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 673
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78baaab1d7234a050800000000000000
+      internalID: 5810824932131253127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_18
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 673
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4967ce2e8de68b0800000000000000
+      internalID: -5156946054151236421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_19
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 673
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb18e58cc7cbea860800000000000000
+      internalID: 7543173670015762875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_20
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 671
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da16944a826889810800000000000000
+      internalID: 1772313962483376557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_21
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 673
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288a333e106a45550800000000000000
+      internalID: 6148721918304561282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_22
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 674
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101ff0ff9b8826ad0800000000000000
+      internalID: -2710453693294055167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fptShop_23
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 671
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a7c02e0ee39600800000000000000
+      internalID: 473984130250942730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fptShop_0: -1216609277083359833
+      fptShop_1: 6453587262296698410
+      fptShop_10: -7073626282858143867
+      fptShop_11: -7405610489105075463
+      fptShop_12: 3896873636181476254
+      fptShop_13: -5141857256803930872
+      fptShop_14: -2364778153310337626
+      fptShop_15: -2144019941528381297
+      fptShop_16: -6432982624504613041
+      fptShop_17: 5810824932131253127
+      fptShop_18: -5156946054151236421
+      fptShop_19: 7543173670015762875
+      fptShop_2: 4634577450714643849
+      fptShop_20: 1772313962483376557
+      fptShop_21: 6148721918304561282
+      fptShop_22: -2710453693294055167
+      fptShop_23: 473984130250942730
+      fptShop_3: -9165493563616735665
+      fptShop_4: 4989123306039379928
+      fptShop_5: -718917142123784232
+      fptShop_6: -5345227962708654115
+      fptShop_7: 1354955216190131953
+      fptShop_8: 2478293109741022191
+      fptShop_9: 9114496486340815206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

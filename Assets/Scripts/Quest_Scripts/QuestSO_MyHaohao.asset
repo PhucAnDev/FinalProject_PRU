@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5721c85b633df8544a4ef90518d13e39, type: 3}
+  m_Name: QuestSO_MyHaohao
+  m_EditorClassIdentifier: Assembly-CSharp::QuestSO
+  questName: "Giao th\xF9ng m\u1EF3 H\u1EA3o H\u1EA3o"
+  questDescription: 
+  header: 
+  questLever1: 0
+  objectives:
+  - type: 3
+    description: "Giao th\xF9ng m\u1EF3 n\xE0y cho c\u0103n h\u1ED9 c\u1EE7a ng\u01B0\u1EDDi
+      g\u1EEDi"
+    useAsHeader: 0
+    target: {fileID: 11400000, guid: 3d3ace8b3ced5d541a74570f42f1ce2f, type: 2}
+    deliverToLocation: {fileID: 11400000, guid: bbdfdc017db44364d99859e41c3d35d9, type: 2}
+    requiredAmount: 2

@@ -124,10 +124,10 @@ TextureImporter:
       name: Quest1_0
       rect:
         serializedVersion: 2
-        x: 374
-        y: 0
-        width: 593
-        height: 1024
+        x: 27
+        y: 282
+        width: 1304
+        height: 433
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -1,52 +1,87 @@
 ﻿using System;
 using UnityEngine;
 
+[RequireComponent(typeof(Collider2D))]
 public class Loot : MonoBehaviour
 {
-    public ItemSO itemSO;   //Tham chiếu dữ liệu item (đặt trong Inspector)
-    public SpriteRenderer sr;   // Renderer để hiển thị icon của item rơi trên đất
-    public Animator anim;   // (Không bắt buộc) Animator để chơi animation nhặt
+    [Header("Data")]
+    public ItemSO itemSO;              // Item định danh
+    public int quantity = 1;           // Số lượng trong 'cục loot'
 
-    public bool canBePickUp = true;
-    public int quantity;
-    public static event Action<ItemSO, int> OnItemLooted; //Sự kiện nhặt item
+    [Header("Visuals")]
+    public SpriteRenderer sr;          // Icon hiển thị
+    public Animator anim;              // (tuỳ chọn) Animation "LootPickup"
+
+    [Header("Pickup Settings")]
+    [SerializeField] private float pickupDelay = 0.2f;          // Trễ nhặt sau khi spawn/drop
+    [SerializeField] private float destroyDelayAfterPickup = 0.5f;
+
+    public bool canBePickUp = true;    // true => có thể nhặt
+    public static event Action<ItemSO, int> OnItemLooted;
+
+    private void Reset()
+    {
+        // Đảm bảo Collider2D là trigger
+        var col = GetComponent<Collider2D>();
+        if (col) col.isTrigger = true;
+    }
+
+    private void Awake()
+    {
+        // Nếu đặt sẵn trong scene (không gọi Initialize), cho phép nhặt ngay
+        canBePickUp = true;
+    }
 
     private void OnValidate()
     {
-        if (itemSO == null) 
-            return;
-        UpdateAppearance();
+        if (itemSO != null)
+            UpdateAppearance();
     }
 
+    /// <summary>
+    /// Gọi khi spawn từ code (DropLoot). Tự khóa nhặt 1 lúc để tránh "nhặt dính tay".
+    /// </summary>
     public void Initialize(ItemSO itemSO, int quantity)
     {
         this.itemSO = itemSO;
-        this.quantity = quantity;
-        canBePickUp = false;
+        this.quantity = Mathf.Max(1, quantity);
         UpdateAppearance();
+
+        canBePickUp = false;
+        StopAllCoroutines();
+        StartCoroutine(EnablePickupAfterDelay());
+    }
+
+    private System.Collections.IEnumerator EnablePickupAfterDelay()
+    {
+        if (pickupDelay > 0f)
+            yield return new WaitForSeconds(pickupDelay);
+        canBePickUp = true;
     }
 
     private void UpdateAppearance()
     {
-        sr.sprite = itemSO.icon;
-        this.name = itemSO.itemName;
+        if (sr != null && itemSO != null)
+            sr.sprite = itemSO.icon;
+
+        if (itemSO != null)
+            name = $"{itemSO.itemName} x{quantity}";
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player") && canBePickUp == true)
-        {
+        if (!collision.CompareTag("Player")) return;
+        if (!canBePickUp) return;
+
+        if (anim != null)
             anim.Play("LootPickup");
-            OnItemLooted?.Invoke(itemSO, quantity); //Giả sử mỗi lần nhặt 1 cái
-            Destroy(this.gameObject, 0.5f); //Chờ animation chạy xong rồi hủy
-        }
+
+        // Nhặt toàn bộ stack
+        OnItemLooted?.Invoke(itemSO, quantity);
+
+        // Hủy object sau khi hiệu ứng chạy xong
+        Destroy(gameObject, destroyDelayAfterPickup);
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
-        {
-            canBePickUp = true;
-        }
-    }
+    // Không cần OnTriggerExit2D để bật nhặt nữa (trước đây gây kẹt "không nhặt được")
 }

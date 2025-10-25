@@ -14,9 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
   lines:
   - speaker: {fileID: 11400000, guid: 832bec221796b4a45a9bb55291d256db, type: 2}
-    text: hello
+    text: "\xCA!"
   - speaker: {fileID: 11400000, guid: 832bec221796b4a45a9bb55291d256db, type: 2}
-    text: "tao nghe no\u0301i la\u0300 ma\u0300y \u0111ang h\xF4\u0303 tr\u01A1\u0323
-      \u0111oa\u0300n thanh ni\xEAn a\u0300?"
+    text: "Ma\u0300y mang thu\u0300ng mi\u0300 sau l\u01B0ng tao v\xEA\u0300 nha\u0300
+      t \u0111\u01B0\u01A1\u0323c kh\xF4ng?"
   - speaker: {fileID: 11400000, guid: 92c6b8b61be77da4ca4d4398d054bd05, type: 2}
-    text: "\u01B0\u0300a! cu\u0303ng kh\xF4\u0309 l\u0103\u0301m ma\u0300y \u01A1i!"
+    text: "\u01A0 t\u01B0\u0323 mang \u0111i ma\u0300y"
+  - speaker: {fileID: 11400000, guid: 832bec221796b4a45a9bb55291d256db, type: 2}
+    text: "Cu\u0303ng mu\xF4\u0301n l\u0103\u0301m ma\u0300 tao kh\xF4ng mang kh\xE2\u0309u
+      trang n\xEAn kh\xF4ng v\xEA\u0300 \u0111\u01B0\u01A1\u0323c."
+  - speaker: {fileID: 11400000, guid: 92c6b8b61be77da4ca4d4398d054bd05, type: 2}
+    text: "Ok! tao hi\xEA\u0309u r\xF4\u0300i, t mang v\xEA\u0300 cho"
