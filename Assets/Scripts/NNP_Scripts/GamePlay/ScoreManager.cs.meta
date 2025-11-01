@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6eba289cf9c95e4bb8e1cf499432941
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerSpeed: {fileID: 11400000, guid: 4f09881fc1786dd47a7e632952428788, type: 2}
+  - IsAlive: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
