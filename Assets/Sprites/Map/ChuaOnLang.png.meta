@@ -1,0 +1,7528 @@
+fileFormatVersion: 2
+guid: fbf6dbc8f2e6d0640b55bd347c9ad81f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1980694552391560766
+    second: ChuaOnLang_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChuaOnLang_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea9d38337dc7b10800000000000000
+      internalID: 1980694552391560766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018095954cc38754491f4286a44a5311
+      internalID: -275917542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6ae405e2db5dc4daac05bbbacd1f57
+      internalID: -1085153143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad683919ba38c4cb996d2acb3b56f8
+      internalID: -625468609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3cd43ed219734ea5d28340fc00c30
+      internalID: -625688880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc8f9bcf0e91fa449d464405e2b4047
+      internalID: -1248661559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f625c2d5da98d1445bdd5bf7d2bee8ac
+      internalID: -1613890038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4d097f62653442806f97c57bc6983
+      internalID: 839846912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a308c4e786df23428f97145a04ecc2d
+      internalID: -1457821246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efcebc620a42114f9a0a52f2b5341c1
+      internalID: 55601086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0993f47081ec74e9c0e0174de41d5d
+      internalID: -1561722780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ec1e1f3018c0c47bf76c4bdd17b2f8
+      internalID: -1033495039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4637355dbefe843a2a27b7b543a704
+      internalID: 52177479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289e822a4bbe28c4cabf74e1c7821607
+      internalID: -1241529650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2846f5780b91b346b417e22993900ae
+      internalID: -1752724058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fda19690eba134ea60d5e5110e9fa2
+      internalID: 1203726697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9934580dc8829b9459de1c61c08368b4
+      internalID: 1848672172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_17
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe561230396a14a94eee11cc2a5cdb
+      internalID: -1115812525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e802cba47c31e46be4cf112954624a
+      internalID: 1766747402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02ae580ff9d59498d1af3e7a60ca9b
+      internalID: -1610488114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffcaaf4c710a9548a1aecfc38a113f9
+      internalID: -274425861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbf59db480d0a24192726fd737e576b
+      internalID: -1865940338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7099386ea9c1bf743b54b3a0f7f1cfa1
+      internalID: 1683592729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3571459419861954f8e22a284af72d3e
+      internalID: -584538423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f8e6dd380bb0489cbe1864157805f
+      internalID: -504704800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b2b5c1cb09c0347b306fe16c9f2493
+      internalID: 2027438895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe8e08737f1c14299b2994623d8495
+      internalID: -433305205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dc84d9475ab2a4aa3d52ebb4de1f13
+      internalID: 308605493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bed2e915b5e8841bf12e685ad71921
+      internalID: 84064679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1ffd726d40774da7d79d6a0211c31
+      internalID: -874860949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c6ec8c23ea0624d8e947c0cee2459b
+      internalID: -1860473282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e1cf57c83d124b89f00910638fde5
+      internalID: -627528285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec9a0d0861500e4bb0407f555d1cfe9
+      internalID: -1175533904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69f496ca3a0664e8638484534447aa
+      internalID: 578380781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23faafada857946b810bd13869d472
+      internalID: 54576297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487eb2c7b60c30441aa38af45f74a5e1
+      internalID: 1401708863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65627a17c1fe13e4aab0c2f0338ed0a7
+      internalID: -1451912957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_37
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da90a2f8720b274ebe65765a4dd8f6f
+      internalID: 603565285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c215f1fbc3ff7e48b0a0bd8ec0a33c2
+      internalID: 1128936363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6b242eb6fe3243983bfe4dc57bc3e
+      internalID: 1180880434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181c8522f87e04488bc03578e07ba0e
+      internalID: 1837716248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab4d2f66774d924f842e1aff9ffe238
+      internalID: -1809021927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f5650e97b54ef459f5e627a641abad
+      internalID: -1507862641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafcff5ade2b3884ea42f65b83994889
+      internalID: -917472640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05930fb7e156045b5ce8b5ceb1b910
+      internalID: -131534342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4d52d86c58db4690f8cb9602af1f8
+      internalID: -2073254346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9f2bb9ea82c444aad4a5db45b0683
+      internalID: -1109199969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ba1ea620176440be71efa5c997cda
+      internalID: 56154916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c89953247c35f4b8583e806e5af6a6
+      internalID: -1022566988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65762b4ddb87214cadc585635102168
+      internalID: 1426783424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a56f2cc97711541afd7923d6a9636c
+      internalID: 187898155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_51
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543568c888586cb4b93c7b627a906c70
+      internalID: -1194261327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8487397e47db1de40a05f74bb3223d4b
+      internalID: -2092194265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03801a92c9c5b4e9f18f7fce339f23
+      internalID: -133246307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd8f21d730eb24449ebae5752ec79d5
+      internalID: 1672575130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_55
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3af069c8fe0b046ac89a0123a6c60f
+      internalID: -23285086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_56
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338ce5f5482475459eb8cd84e1b72eb
+      internalID: 394789515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33691bfed462e6f429b6c3ce7866b2f0
+      internalID: 1499634567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461653d9216a13e4e944b72a37c543e4
+      internalID: -300745245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99184799925bde43af706ec11fb6f16
+      internalID: 1470475580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958ccf71816e10f46962b034130c8dfb
+      internalID: -1600599534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd4fcf8b900b254e9cbfdd1223b06d6
+      internalID: 109625009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_62
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dece035aa81d5d4d87043674e2fa0c6
+      internalID: -2063540188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee909076290a7a4d93b8f1dfd171500
+      internalID: 460267765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c3295276b6d44f8f29467580f6a66
+      internalID: -1593513540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91be44460c7bd41b6d0a97648da730
+      internalID: 173934804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e50a6d2af7bd5459289f001e80d7d8
+      internalID: -1235737623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abeb7ec3c09a7d4c990dac3d342c2d7
+      internalID: 1696201206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8e34acd4cdf7246943f58c9becf438
+      internalID: 1942414546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_69
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd40f33112d6004cb1cdf8fc03ab0b2
+      internalID: 1412797787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_70
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c817b49106b8489d95df6ba81c4ca
+      internalID: 569025878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b24001bf852d4ab6ead6a1964a59a
+      internalID: 161002770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_72
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb932c49421a2449cdf92e4f944579
+      internalID: 2022647447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_73
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a02b8da3bfc594ca6f6082ae7d5792
+      internalID: 1828471117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_74
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba91e80be103749a0546350ce0f359
+      internalID: -1128767100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79318aa3d89495a4081e8b3cccb2d9f2
+      internalID: -76148006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd054e1771f62e43995ec7e563767f8
+      internalID: 948029451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce96d3161b2374ea087b5617e87c5c
+      internalID: -812956526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_78
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2a37565e77404787550fa24990e62
+      internalID: 128474525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf6ebddb07bfa4589fcce8ff1a4e22
+      internalID: 873949377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_80
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc096df75f0d2e4494d6dc4c0c3f2ac
+      internalID: 1339784601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb2ed9c9c9293448c11fb127382b06
+      internalID: -1439461179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_82
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae4a28ac5274454a95373ec5852d073
+      internalID: -205514870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7f91cb9be8e440b141bde021deeae
+      internalID: 1509966732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_84
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba282e03ef4e1349b3691ab6fc9699f
+      internalID: -1630386687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed4b539244bdd49871771bf1313da5
+      internalID: 1595467663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8833cada56fc498b430b4d3a819f9
+      internalID: 74215508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750ab9ed9b729a64b8ad4ca7bc563942
+      internalID: -1719979418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_88
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c7af23c7e753e4491175fefa9bd7ad
+      internalID: -1980295174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0579a9aab7b594cb3c45cd617059c2
+      internalID: 1274711734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_90
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1ce24c3727cbe4fa30630223208ea1
+      internalID: 900854335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_91
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6336fc5ce612bf439d2aea4d6db5462
+      internalID: 917166732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_92
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614e4ec2be8e8948bfd46b6ea3042a7
+      internalID: -958294312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8decff228017364686dbd1486c69e8f
+      internalID: 628813862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa63ef0a99f81234a8cbe41cd752a353
+      internalID: -2017139035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef0b7773f621a549a110cdbffcdac6d
+      internalID: -1672994281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_96
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdaf0eef0bfd634794490a5a1f37065
+      internalID: 132401346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_97
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad009b4c01450541b9636e0a5b55f4a
+      internalID: -537346591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_98
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340df402730621848b4cb0515b3b739f
+      internalID: -1744248643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90de419e9a2db84a9e539a2b301ca2a
+      internalID: 586042006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_100
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e5b1a4c5933f146a32ea044a6e8b64
+      internalID: -1565047178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecaaf949932c724a9f8c47eed3b4a65
+      internalID: 1917030125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_102
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf03584b2eec2142bf6cb53ead1ac92
+      internalID: -1955093485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_103
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e48951eafc42488d34c2eb127b9fb
+      internalID: 215600791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_104
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d27adf30afc743b26a54576eee506
+      internalID: 1959982300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_105
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0be5faa020ad648ad1ecf3759c156a
+      internalID: 1832049346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_106
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d549ee471bbb8b47bdaa3ce77183e5a
+      internalID: 797143112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_107
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da12f89701882843b24b922a9332cf0
+      internalID: -1556326503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_108
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132522b050db6b04cb4fca44333bd6f8
+      internalID: 1820414183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e5d1880ab74d499748284dbec433e
+      internalID: -1949458824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f47935764ab08c4b8fecf9ce7f2966b
+      internalID: 1841626569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371267c52f39be1488702cd6646ce592
+      internalID: -934737773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_112
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d748388534e2439defc2855ef63e1
+      internalID: 306174051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115121265e7d29644b229dcd6c2993db
+      internalID: 632041018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_114
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748ba31e75119954fbd82e1013988822
+      internalID: -1491719242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_115
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5fef73701a54746acec1a37a914298
+      internalID: -1086333661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_116
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa65ad4789c4148b5c60216a17cd00
+      internalID: -1921017289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_117
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db17728b8fac5984fa28ffd938ac1365
+      internalID: 231956185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_118
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acd08fc00c9be468fc3a81f41d4eb6
+      internalID: -1076100390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_119
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c56737b4f11b47bd2501706741d11
+      internalID: -794408553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_120
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459effd77f104e945ae8f48af8b6b16f
+      internalID: 1152011525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7787415825dde804087e1ed9e1fbcfb3
+      internalID: 485864159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_122
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea654fc556b1a3747b1e1e6450b33747
+      internalID: -1401405787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_123
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b23929c221749f4bac309a57ea8a8c2
+      internalID: -907018628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_124
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25edcc759182e2f4a8e31fcccf22eb59
+      internalID: 1491829637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_125
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20f3222d1719e48b11914969272ab7
+      internalID: -1089721425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_126
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7a735400fd23418e2440b608772ce
+      internalID: -340545292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_127
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e13684f087acb4bb18e334f5586dcc
+      internalID: 1948358489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_128
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df099a66d032c48af95344a8ac6396
+      internalID: 2044804707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5133df58d60bf348821a5f9bfcab2af
+      internalID: -593153657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_130
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f30454c12e944d42bb029e35b93e0ca
+      internalID: 876075131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f0f577fb6cb63478a3156767713f19
+      internalID: -1126929991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c38565af8abf14ca3a9d63215854a7
+      internalID: 1455366994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_133
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da90c5fc1b1b4f64a9bdcd8c6a5becc7
+      internalID: -1259305028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_134
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe071873adeb045af1171d4f7f7e31
+      internalID: -1547902671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3688901754ab40ad60546312e5dec
+      internalID: -1469675355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_136
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551d0fa127f461442860818f7dfb6e5a
+      internalID: 733482966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e4e906a6760b140b9368fbd28a9f7e
+      internalID: 2137972428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_138
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51905366329dcc645b1519becad273cd
+      internalID: -1992132449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_139
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d59da55193c5a34280ada79bef03136
+      internalID: 807235565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_140
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b6027ef6d0db4585c437d6b4c444a
+      internalID: 789844788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_141
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcadb1f98f66c04f80ef0f61fc78f56
+      internalID: 1721589511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_142
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a8ceee7c3ce24c9b0b923e65b86b9
+      internalID: 257933426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_143
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7b43b6f5f30247a6c3573af4a2312
+      internalID: 75444371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_144
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcd5910de98be74d81ff99c37fe0d9f
+      internalID: 1327199676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_145
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63690a7795cc0646a002f11364ff422
+      internalID: -1966039611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_146
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd112e74fadcf4a9d4f2707cea4982
+      internalID: 1398814765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_147
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f393ef52f92648a39e785c0b2191f
+      internalID: 1916152458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_148
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d72b3a6682aa49b82cb06656f06fd
+      internalID: -1015287478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea48cef78ad9fcb4b8147b258afc8a92
+      internalID: 1610746401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_150
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aab68f305475d439852b05f1aa8a9d
+      internalID: 1238043870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_151
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2499f8bc174f704aa73542cba4f0c12
+      internalID: 1560117801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_152
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d384f27eaaef6984e8e581eaee99ca4d
+      internalID: -2142745685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fdcee56ed6cc04681eeda6fd36029e
+      internalID: 1980123750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_154
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ad58b511431a4eac63f90dbb0d4fa
+      internalID: 1757085899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_155
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53ce07264804f43a86e39c9443a717
+      internalID: -1707584162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_156
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ffda6810b663546a2ccd1f3e1dd412
+      internalID: 1767445431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_157
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed874d9b208f0438ea84d67d9f7961
+      internalID: 1383837003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_158
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b78fd886b93b4a449b285f9b8a024af
+      internalID: 790810989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_159
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ede69004981fa409e8ca74dd0fb749
+      internalID: -377716318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_160
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65efe494cac317242ac0033758b4cdc2
+      internalID: -20924851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_161
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd5b63b96080a149a2cb5d7b029f8bd
+      internalID: -46999244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_162
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15a1693374341742bf28938c884bb4a
+      internalID: 1985730982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_163
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d28e4d9ab6a974081ecc6d9f7260a3
+      internalID: 1841390110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_164
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bba51c6164f6842a637d1dfdb16995
+      internalID: 1170899890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_165
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6189138310575044ab3821dbe341d43d
+      internalID: -1940471253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_166
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3883ca16933d95499725dc03b84a003
+      internalID: -595516826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_167
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7cdc47996c2746a380685d684e646
+      internalID: 666910789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_168
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc81d1258e2f44498d8a69561787459
+      internalID: 540088845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ccdbd7ed06902488e260f05956c4a2
+      internalID: -393210523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_170
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ea64b782fd564c8a9c40ede465b42
+      internalID: -9044519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_171
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b57a03ad70950418428b149166901c
+      internalID: 1370836944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_172
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b964341a96f177d4bbcce49d99db87a2
+      internalID: 1165041240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a224302ad413a4e9aa45ffff2b7035
+      internalID: 952686017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_174
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298043961e6c8eb47951753aec4d12a7
+      internalID: -2030565386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_175
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71389459b11fc5644ad3def2ca857224
+      internalID: -1439738648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_176
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551172859b98aec4bb550573319ac48e
+      internalID: 2097747652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_177
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2495741760f6e04890f4f396316f4ba
+      internalID: -1950865978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_178
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a615a6119918f347a39dc25598f5dc3
+      internalID: -2062150338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_179
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73cadd46ffc7e04c8685561529e06b5
+      internalID: -1733036349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_180
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f1e25d12dad447a1ba5896b2808b3
+      internalID: 722658953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_181
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd47e66f2cdc01a4c80d258da934a54a
+      internalID: -67452629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_182
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759d74fede10cd46ac2d35a82402e30
+      internalID: -1815437587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_183
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ff15579b4e6d4c9603db2461d1736
+      internalID: -1527271183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_184
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b5572f8d215e4aa39de86702f78c4
+      internalID: 1793780729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_185
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb3e4cefb957340981293340c6c16c
+      internalID: -1626965052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_186
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d082ad14e447ba4f8e53a766ebec47d
+      internalID: 1277978302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_187
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f063ed14825f245a0f998255389e5a
+      internalID: -73305508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_188
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ed721096c0acb449746760dcdd8197
+      internalID: 709237905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_189
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc675240bdf29c40a40ae40b3bbfad9
+      internalID: 912124207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_190
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583fc178b823af4986fc4a74fef6e81
+      internalID: -1434048523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_191
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1b4909d83c4f74eb5b7e53590de01e
+      internalID: -66770907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_192
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effe317f6d22d1c48b391a4f0c10d970
+      internalID: 847981800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_193
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42014ec7d8c94439ec91911634285e
+      internalID: 225549347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_194
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0f79721a970b64e902bb3a8b1a7578
+      internalID: 611321456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_195
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58991b75f44a38c4a93a8fc68150b75c
+      internalID: 1966878244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_196
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242efd53095b6947be2fde8c2520493
+      internalID: -1713217270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_197
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed5e6f5e384a844db28ecb9127e8946
+      internalID: 823733830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_198
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918662013dd0184d9bca8a66473d681
+      internalID: 1743288974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_199
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981a895858d6144487331751e39b129
+      internalID: 1451543855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_200
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac05029a3f0e004d8eb51289928c5f2
+      internalID: -2089364828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_201
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad718b3af5bff40920211cef86f2c6
+      internalID: -1273621682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_202
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02218006510c78d49a531539dfed80ff
+      internalID: -899456571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_203
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c54aa1f9aa2b842be0e42ead73e233
+      internalID: -1175213154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_204
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49fabe87596f4458bfee100fe6316a
+      internalID: 1693332416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_205
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d3735a53a9ac45b2f8df84713e321
+      internalID: -2111571942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_206
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0d618815863d64ab202fcb0f97c956
+      internalID: 1050066034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_207
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e389811693d73489e728c4de04184b
+      internalID: -1698910079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_208
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516575b297964246968883d22994dc8
+      internalID: -1695138105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_209
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b13cc05a0199f4dbfb3c20fa360849
+      internalID: 1914909344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_210
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352cc0bc7d62571409183bf6aa4b2bba
+      internalID: -340218342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_211
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea666666f4010374c941384ed9958f76
+      internalID: 1612669208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_212
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb85dbf8b00380458a9054fddfda32b
+      internalID: 874054820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_213
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b65ff1425b30498575c75cbe43d47
+      internalID: 625647051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_214
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb1ea768af3eb944bf1b03e5939e4fb
+      internalID: 1979475861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_215
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61384d4451bc91f4b8992879ccdbc94d
+      internalID: 1676929912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_216
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae7de6089d6df41813b242cb605429
+      internalID: -211329709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_217
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4fa5fcccab049498945d56f9301626
+      internalID: -1832468693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_218
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627c974e659df764091e32f75b81b84a
+      internalID: 2135471773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_219
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad85bacb090e8643a7192dc934a3c96
+      internalID: -677221288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_220
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb7c1c3e7189304faf292a945558163
+      internalID: 95694773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_221
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c45e606f2c7224d9820dd161abb123
+      internalID: -154802314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_222
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fef7696bc7f6d4892b4fdcd80feb5e
+      internalID: 1039710951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_223
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0560fda7a7e57ed4fadf0c2b9fb06b76
+      internalID: -1634040560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_224
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1de356b49850c439028d48d71a1de7
+      internalID: -1423592458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_225
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8836b463a1b21478d766be58bb6edb
+      internalID: -36094150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_226
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf343bbcd6e95544482419653512c1fe
+      internalID: -1975403131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_227
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa32df9765f5321469c26df3116f7f1c
+      internalID: 1225394154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_228
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb131b91e151f4695d68302e8628ef
+      internalID: -2068080863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_229
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2da9cf76ebba24b8b53a222e34bf4e
+      internalID: 1318116323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_230
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002db0566b90814b90f43e346d750f2
+      internalID: 161340602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_231
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2500a4f00342e641b7447569e24b034
+      internalID: 514383334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_232
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f38461fd965336489ee8987c4f9d044
+      internalID: -127776613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_233
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c721ddd8b2cef4ca46b5b26819976b
+      internalID: -1422551809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_234
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b0db4d97cc5c948aef0fea7a2f38bd
+      internalID: -147030873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_235
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99578b1a81ac76549a5e49301e546041
+      internalID: 1214241201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_236
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc64d037e66f6184b93764eff0446e3b
+      internalID: 2005576399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_237
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fca50bbb58a06a4da6329a7fefc5569
+      internalID: 167025333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_238
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f9393a61e03c440ac728ea4287acce
+      internalID: 290516725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_239
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07455dff68dc4c343ba3ac24b9890ccd
+      internalID: 162934194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_240
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d909280f897fc9848a2ca09d1c9362c7
+      internalID: 115670208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_241
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cebbd282369034b99a94e839917267
+      internalID: -1573609593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_242
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae479b0c2a895584e8b62fd11f1472ac
+      internalID: 528228487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_243
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aec10121abc070439ce8100e70e78c8
+      internalID: 1283395972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_244
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccfe5c4c324a214f8d78d8e42daba75
+      internalID: 341066082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_245
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ff6b6d715e3dc439a9728f3adfed5c
+      internalID: 1920476912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_246
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270c3e1b0082d4c4aba9eebc755e8799
+      internalID: -776222001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_247
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09ec35b8107a5c46a4f0bab99c46ef7
+      internalID: 1465715580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_248
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985ae14adccdc64badcdac91c012ee0
+      internalID: -1660201648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_249
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba231009fbe894282782af23dafb8d
+      internalID: 326033867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_250
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93398617ce16a514f99ab4c0258f7626
+      internalID: -208508496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_251
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becdf239d3c0ecb46b34bfbc95bf30b0
+      internalID: 1525009077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_252
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fca310c5239b584c9d522854506c6a7
+      internalID: -2045725396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_253
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48ddc12dc312984f96b5b7420dcd3c5
+      internalID: -125549373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_254
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc904db3442378747a8897ba865e12bc
+      internalID: -1174683522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_255
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dde2551c1039764d871ea8526171e81
+      internalID: 1502975192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_256
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a3faec5c02d5040aebef4592bce3d4
+      internalID: 837082324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_257
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878344cce79e8474d8d55e00b76fe531
+      internalID: -1225192772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_258
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696ab223e9d4b9469593a752153dab4
+      internalID: -143223416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_259
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a384b183087549bf006c8db39728c
+      internalID: -373233530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_260
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd520aeb3caa2ed4aa62a6e4e5e0f8cf
+      internalID: 1029283088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_261
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6463b03f66759b74a94503b700f9f485
+      internalID: -2129716182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_262
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f9f2b9e590d343980a79d475bebad
+      internalID: -86515086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_263
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c012ae45656f4ca6c85efa5a068df
+      internalID: -1322001856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_264
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a29b065d1c4215478025774179b84d0
+      internalID: 1538173668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_265
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb26a2afe0d1f45899290673894dc9
+      internalID: 16774632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_266
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab6a6ecff0a01245ac312cb707a132e
+      internalID: -1622881984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_267
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4318426b33ed74abb588759c7c8b6e
+      internalID: 118093502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_268
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf59a618a1930df4ab9bce69bafefd4b
+      internalID: -271926081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_269
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6046b387b090448ec4a5a0adbdf15
+      internalID: 1132824609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_270
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f17774945e8b847b3df04368eb5eef
+      internalID: -1826938686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_271
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1754d3bf67240af43b825d9a237f6dc2
+      internalID: -861481986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_272
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed237756a5299fc4ba4a41b9e1dda3ee
+      internalID: -319686011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_273
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7451bba7a65f44b9b65a15293db15
+      internalID: -696165973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_274
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dbd524c970f4745b282a9e28149c36
+      internalID: 43899897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_275
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87d30205efde543a1d6a511e77fc98
+      internalID: 907557595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_276
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ddc2b67d7cec4fbac1660733d849c
+      internalID: -1098955530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_277
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db4c3aa4412ae4e852758b999d5723
+      internalID: -1196978856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_278
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7e1ccf430ca148b98bc2cd7d9abf6
+      internalID: 600025267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_279
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39305f7035ac5ec4d94107f33b8d7a67
+      internalID: 1876328710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_280
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a382a83e49ad37b45a59f95a6172126b
+      internalID: -430303079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_281
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683aa6e7dbbaf30409c1dc6309f2b53c
+      internalID: -494325749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_282
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff422f8875c3b046b418e5b5eb0dd68
+      internalID: -706505073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_283
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576c7b2e6a89d847acd51ca490d7566
+      internalID: -437481771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_284
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71205f635ea850e43ae22193fba16a18
+      internalID: -1830906258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_285
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21c297eb2c19f745a2881a6a11d5ba5
+      internalID: 264844871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_286
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e4dd05eb17d04bb771cea2a6a4da5
+      internalID: -1696113871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_287
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7b340746f23fa4587d4fa5df19bb56
+      internalID: -1071493977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_288
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf56bca9c542754f9e8cbe6530a7364
+      internalID: -1016103042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_289
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d98daf9aec74d41b6374b01235982c
+      internalID: 869794929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_290
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1731e3976023604583b47ab37f09600
+      internalID: -422886341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_291
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7fa894d8f66b345b4dcd2d621010cd
+      internalID: 84635468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_292
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951041f0b668c714281de5716938f737
+      internalID: 311557778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_293
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac741c8b7fe212b48a6a423a3f369671
+      internalID: 1183596854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_294
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aad10dbfe70b24eadc97d7b9746c30
+      internalID: -1308315332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_295
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db461e6fc60848479ead6ebc6435747
+      internalID: 650027019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_296
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65583031079d324ab25fe2f82be79b3
+      internalID: 1277402920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_297
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1ecc1b8b378a14086aec18f13403dd
+      internalID: -887160444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_298
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c6c78dbc99d14fb43932752d7c584
+      internalID: 1662568549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_299
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef36fd2032a64540b820eb6db71928f
+      internalID: 2009605755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_300
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc60cbffdca842459fee071139a80ae
+      internalID: -1004720530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_301
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988f509de500f74ba3dbdfb6e7238ca
+      internalID: -931883911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_302
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49111e4d45b51bf43a691666b34333a8
+      internalID: 1433278508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_303
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26d204cf5d26354d88bacdbc73c76d5
+      internalID: 625205502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_304
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0217b19b8d10a624dbb860aa7591e1d1
+      internalID: -955628362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_305
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4fb063410a6924a9b35b2baa7d42ed
+      internalID: 779287193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_306
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ebfa053ed82f428129d25da9a035f
+      internalID: 1797505404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_307
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fcadec313d3d54fab74fa19ee1c383
+      internalID: -260531382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_308
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5377757eecfda46896bf3dc71c1396
+      internalID: -1079372142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_309
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545bb749f4fb0f94cb07b7b53179f053
+      internalID: -1594924335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_310
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101452ffd0cc3234ebab617a3722811a
+      internalID: -2103521195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_311
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7526b47a00478d244be6acd2355b33e4
+      internalID: -1584902964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_312
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693306afb46a4340843793a52d434e8
+      internalID: -489649151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_313
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eda7a0449eff74a9c78a5c4126f319
+      internalID: -1249466097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_314
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0f6013f9b8eac4f884f59e0ba24ee4
+      internalID: -1786211544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_315
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40961f148221e944593b6ae1811cdf4e
+      internalID: 516028477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_316
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39fbaeaaef4fb40bb4a55991bfd7fb
+      internalID: 1223992296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_317
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75367775edb1aef42893919939977e81
+      internalID: -359058684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_318
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cff4ed5e955a24e9fff3e355acd498
+      internalID: -98551495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_319
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b30f0447daaa40a5465f524d07551
+      internalID: 1019493070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_320
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13787f305072c544daaf0a8fd2c11115
+      internalID: -1642282724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuaOnLang_321
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be19beb1694344bb3e83fb4366e1d3
+      internalID: -1063745192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5bd194d9e915ca444823ea587e64b7de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":50.0,"y":50.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ChuaOnLang_0: 1980694552391560766
+      ChuaOnLang_1: -275917542
+      ChuaOnLang_10: -1561722780
+      ChuaOnLang_100: -1565047178
+      ChuaOnLang_101: 1917030125
+      ChuaOnLang_102: -1955093485
+      ChuaOnLang_103: 215600791
+      ChuaOnLang_104: 1959982300
+      ChuaOnLang_105: 1832049346
+      ChuaOnLang_106: 797143112
+      ChuaOnLang_107: -1556326503
+      ChuaOnLang_108: 1820414183
+      ChuaOnLang_109: -1949458824
+      ChuaOnLang_11: -1033495039
+      ChuaOnLang_110: 1841626569
+      ChuaOnLang_111: -934737773
+      ChuaOnLang_112: 306174051
+      ChuaOnLang_113: 632041018
+      ChuaOnLang_114: -1491719242
+      ChuaOnLang_115: -1086333661
+      ChuaOnLang_116: -1921017289
+      ChuaOnLang_117: 231956185
+      ChuaOnLang_118: -1076100390
+      ChuaOnLang_119: -794408553
+      ChuaOnLang_12: 52177479
+      ChuaOnLang_120: 1152011525
+      ChuaOnLang_121: 485864159
+      ChuaOnLang_122: -1401405787
+      ChuaOnLang_123: -907018628
+      ChuaOnLang_124: 1491829637
+      ChuaOnLang_125: -1089721425
+      ChuaOnLang_126: -340545292
+      ChuaOnLang_127: 1948358489
+      ChuaOnLang_128: 2044804707
+      ChuaOnLang_129: -593153657
+      ChuaOnLang_13: -1241529650
+      ChuaOnLang_130: 876075131
+      ChuaOnLang_131: -1126929991
+      ChuaOnLang_132: 1455366994
+      ChuaOnLang_133: -1259305028
+      ChuaOnLang_134: -1547902671
+      ChuaOnLang_135: -1469675355
+      ChuaOnLang_136: 733482966
+      ChuaOnLang_137: 2137972428
+      ChuaOnLang_138: -1992132449
+      ChuaOnLang_139: 807235565
+      ChuaOnLang_14: -1752724058
+      ChuaOnLang_140: 789844788
+      ChuaOnLang_141: 1721589511
+      ChuaOnLang_142: 257933426
+      ChuaOnLang_143: 75444371
+      ChuaOnLang_144: 1327199676
+      ChuaOnLang_145: -1966039611
+      ChuaOnLang_146: 1398814765
+      ChuaOnLang_147: 1916152458
+      ChuaOnLang_148: -1015287478
+      ChuaOnLang_149: 1610746401
+      ChuaOnLang_15: 1203726697
+      ChuaOnLang_150: 1238043870
+      ChuaOnLang_151: 1560117801
+      ChuaOnLang_152: -2142745685
+      ChuaOnLang_153: 1980123750
+      ChuaOnLang_154: 1757085899
+      ChuaOnLang_155: -1707584162
+      ChuaOnLang_156: 1767445431
+      ChuaOnLang_157: 1383837003
+      ChuaOnLang_158: 790810989
+      ChuaOnLang_159: -377716318
+      ChuaOnLang_16: 1848672172
+      ChuaOnLang_160: -20924851
+      ChuaOnLang_161: -46999244
+      ChuaOnLang_162: 1985730982
+      ChuaOnLang_163: 1841390110
+      ChuaOnLang_164: 1170899890
+      ChuaOnLang_165: -1940471253
+      ChuaOnLang_166: -595516826
+      ChuaOnLang_167: 666910789
+      ChuaOnLang_168: 540088845
+      ChuaOnLang_169: -393210523
+      ChuaOnLang_17: -1115812525
+      ChuaOnLang_170: -9044519
+      ChuaOnLang_171: 1370836944
+      ChuaOnLang_172: 1165041240
+      ChuaOnLang_173: 952686017
+      ChuaOnLang_174: -2030565386
+      ChuaOnLang_175: -1439738648
+      ChuaOnLang_176: 2097747652
+      ChuaOnLang_177: -1950865978
+      ChuaOnLang_178: -2062150338
+      ChuaOnLang_179: -1733036349
+      ChuaOnLang_18: 1766747402
+      ChuaOnLang_180: 722658953
+      ChuaOnLang_181: -67452629
+      ChuaOnLang_182: -1815437587
+      ChuaOnLang_183: -1527271183
+      ChuaOnLang_184: 1793780729
+      ChuaOnLang_185: -1626965052
+      ChuaOnLang_186: 1277978302
+      ChuaOnLang_187: -73305508
+      ChuaOnLang_188: 709237905
+      ChuaOnLang_189: 912124207
+      ChuaOnLang_19: -1610488114
+      ChuaOnLang_190: -1434048523
+      ChuaOnLang_191: -66770907
+      ChuaOnLang_192: 847981800
+      ChuaOnLang_193: 225549347
+      ChuaOnLang_194: 611321456
+      ChuaOnLang_195: 1966878244
+      ChuaOnLang_196: -1713217270
+      ChuaOnLang_197: 823733830
+      ChuaOnLang_198: 1743288974
+      ChuaOnLang_199: 1451543855
+      ChuaOnLang_2: -1085153143
+      ChuaOnLang_20: -274425861
+      ChuaOnLang_200: -2089364828
+      ChuaOnLang_201: -1273621682
+      ChuaOnLang_202: -899456571
+      ChuaOnLang_203: -1175213154
+      ChuaOnLang_204: 1693332416
+      ChuaOnLang_205: -2111571942
+      ChuaOnLang_206: 1050066034
+      ChuaOnLang_207: -1698910079
+      ChuaOnLang_208: -1695138105
+      ChuaOnLang_209: 1914909344
+      ChuaOnLang_21: -1865940338
+      ChuaOnLang_210: -340218342
+      ChuaOnLang_211: 1612669208
+      ChuaOnLang_212: 874054820
+      ChuaOnLang_213: 625647051
+      ChuaOnLang_214: 1979475861
+      ChuaOnLang_215: 1676929912
+      ChuaOnLang_216: -211329709
+      ChuaOnLang_217: -1832468693
+      ChuaOnLang_218: 2135471773
+      ChuaOnLang_219: -677221288
+      ChuaOnLang_22: 1683592729
+      ChuaOnLang_220: 95694773
+      ChuaOnLang_221: -154802314
+      ChuaOnLang_222: 1039710951
+      ChuaOnLang_223: -1634040560
+      ChuaOnLang_224: -1423592458
+      ChuaOnLang_225: -36094150
+      ChuaOnLang_226: -1975403131
+      ChuaOnLang_227: 1225394154
+      ChuaOnLang_228: -2068080863
+      ChuaOnLang_229: 1318116323
+      ChuaOnLang_23: -584538423
+      ChuaOnLang_230: 161340602
+      ChuaOnLang_231: 514383334
+      ChuaOnLang_232: -127776613
+      ChuaOnLang_233: -1422551809
+      ChuaOnLang_234: -147030873
+      ChuaOnLang_235: 1214241201
+      ChuaOnLang_236: 2005576399
+      ChuaOnLang_237: 167025333
+      ChuaOnLang_238: 290516725
+      ChuaOnLang_239: 162934194
+      ChuaOnLang_24: -504704800
+      ChuaOnLang_240: 115670208
+      ChuaOnLang_241: -1573609593
+      ChuaOnLang_242: 528228487
+      ChuaOnLang_243: 1283395972
+      ChuaOnLang_244: 341066082
+      ChuaOnLang_245: 1920476912
+      ChuaOnLang_246: -776222001
+      ChuaOnLang_247: 1465715580
+      ChuaOnLang_248: -1660201648
+      ChuaOnLang_249: 326033867
+      ChuaOnLang_25: 2027438895
+      ChuaOnLang_250: -208508496
+      ChuaOnLang_251: 1525009077
+      ChuaOnLang_252: -2045725396
+      ChuaOnLang_253: -125549373
+      ChuaOnLang_254: -1174683522
+      ChuaOnLang_255: 1502975192
+      ChuaOnLang_256: 837082324
+      ChuaOnLang_257: -1225192772
+      ChuaOnLang_258: -143223416
+      ChuaOnLang_259: -373233530
+      ChuaOnLang_26: -433305205
+      ChuaOnLang_260: 1029283088
+      ChuaOnLang_261: -2129716182
+      ChuaOnLang_262: -86515086
+      ChuaOnLang_263: -1322001856
+      ChuaOnLang_264: 1538173668
+      ChuaOnLang_265: 16774632
+      ChuaOnLang_266: -1622881984
+      ChuaOnLang_267: 118093502
+      ChuaOnLang_268: -271926081
+      ChuaOnLang_269: 1132824609
+      ChuaOnLang_27: 308605493
+      ChuaOnLang_270: -1826938686
+      ChuaOnLang_271: -861481986
+      ChuaOnLang_272: -319686011
+      ChuaOnLang_273: -696165973
+      ChuaOnLang_274: 43899897
+      ChuaOnLang_275: 907557595
+      ChuaOnLang_276: -1098955530
+      ChuaOnLang_277: -1196978856
+      ChuaOnLang_278: 600025267
+      ChuaOnLang_279: 1876328710
+      ChuaOnLang_28: 84064679
+      ChuaOnLang_280: -430303079
+      ChuaOnLang_281: -494325749
+      ChuaOnLang_282: -706505073
+      ChuaOnLang_283: -437481771
+      ChuaOnLang_284: -1830906258
+      ChuaOnLang_285: 264844871
+      ChuaOnLang_286: -1696113871
+      ChuaOnLang_287: -1071493977
+      ChuaOnLang_288: -1016103042
+      ChuaOnLang_289: 869794929
+      ChuaOnLang_29: -874860949
+      ChuaOnLang_290: -422886341
+      ChuaOnLang_291: 84635468
+      ChuaOnLang_292: 311557778
+      ChuaOnLang_293: 1183596854
+      ChuaOnLang_294: -1308315332
+      ChuaOnLang_295: 650027019
+      ChuaOnLang_296: 1277402920
+      ChuaOnLang_297: -887160444
+      ChuaOnLang_298: 1662568549
+      ChuaOnLang_299: 2009605755
+      ChuaOnLang_3: -625468609
+      ChuaOnLang_30: -1860473282
+      ChuaOnLang_300: -1004720530
+      ChuaOnLang_301: -931883911
+      ChuaOnLang_302: 1433278508
+      ChuaOnLang_303: 625205502
+      ChuaOnLang_304: -955628362
+      ChuaOnLang_305: 779287193
+      ChuaOnLang_306: 1797505404
+      ChuaOnLang_307: -260531382
+      ChuaOnLang_308: -1079372142
+      ChuaOnLang_309: -1594924335
+      ChuaOnLang_31: -627528285
+      ChuaOnLang_310: -2103521195
+      ChuaOnLang_311: -1584902964
+      ChuaOnLang_312: -489649151
+      ChuaOnLang_313: -1249466097
+      ChuaOnLang_314: -1786211544
+      ChuaOnLang_315: 516028477
+      ChuaOnLang_316: 1223992296
+      ChuaOnLang_317: -359058684
+      ChuaOnLang_318: -98551495
+      ChuaOnLang_319: 1019493070
+      ChuaOnLang_32: -1175533904
+      ChuaOnLang_320: -1642282724
+      ChuaOnLang_321: -1063745192
+      ChuaOnLang_33: 578380781
+      ChuaOnLang_34: 54576297
+      ChuaOnLang_35: 1401708863
+      ChuaOnLang_36: -1451912957
+      ChuaOnLang_37: 603565285
+      ChuaOnLang_38: 1128936363
+      ChuaOnLang_39: 1180880434
+      ChuaOnLang_4: -625688880
+      ChuaOnLang_40: 1837716248
+      ChuaOnLang_41: -1809021927
+      ChuaOnLang_42: -1507862641
+      ChuaOnLang_43: -917472640
+      ChuaOnLang_44: -131534342
+      ChuaOnLang_45: -2073254346
+      ChuaOnLang_46: -1109199969
+      ChuaOnLang_47: 56154916
+      ChuaOnLang_48: -1022566988
+      ChuaOnLang_49: 1426783424
+      ChuaOnLang_5: -1248661559
+      ChuaOnLang_50: 187898155
+      ChuaOnLang_51: -1194261327
+      ChuaOnLang_52: -2092194265
+      ChuaOnLang_53: -133246307
+      ChuaOnLang_54: 1672575130
+      ChuaOnLang_55: -23285086
+      ChuaOnLang_56: 394789515
+      ChuaOnLang_57: 1499634567
+      ChuaOnLang_58: -300745245
+      ChuaOnLang_59: 1470475580
+      ChuaOnLang_6: -1613890038
+      ChuaOnLang_60: -1600599534
+      ChuaOnLang_61: 109625009
+      ChuaOnLang_62: -2063540188
+      ChuaOnLang_63: 460267765
+      ChuaOnLang_64: -1593513540
+      ChuaOnLang_65: 173934804
+      ChuaOnLang_66: -1235737623
+      ChuaOnLang_67: 1696201206
+      ChuaOnLang_68: 1942414546
+      ChuaOnLang_69: 1412797787
+      ChuaOnLang_7: 839846912
+      ChuaOnLang_70: 569025878
+      ChuaOnLang_71: 161002770
+      ChuaOnLang_72: 2022647447
+      ChuaOnLang_73: 1828471117
+      ChuaOnLang_74: -1128767100
+      ChuaOnLang_75: -76148006
+      ChuaOnLang_76: 948029451
+      ChuaOnLang_77: -812956526
+      ChuaOnLang_78: 128474525
+      ChuaOnLang_79: 873949377
+      ChuaOnLang_8: -1457821246
+      ChuaOnLang_80: 1339784601
+      ChuaOnLang_81: -1439461179
+      ChuaOnLang_82: -205514870
+      ChuaOnLang_83: 1509966732
+      ChuaOnLang_84: -1630386687
+      ChuaOnLang_85: 1595467663
+      ChuaOnLang_86: 74215508
+      ChuaOnLang_87: -1719979418
+      ChuaOnLang_88: -1980295174
+      ChuaOnLang_89: 1274711734
+      ChuaOnLang_9: 55601086
+      ChuaOnLang_90: 900854335
+      ChuaOnLang_91: 917166732
+      ChuaOnLang_92: -958294312
+      ChuaOnLang_93: 628813862
+      ChuaOnLang_94: -2017139035
+      ChuaOnLang_95: -1672994281
+      ChuaOnLang_96: 132401346
+      ChuaOnLang_97: -537346591
+      ChuaOnLang_98: -1744248643
+      ChuaOnLang_99: 586042006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

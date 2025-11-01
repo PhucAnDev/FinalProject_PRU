@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|e:\\ki-7\\pru213\\finalprojectpru213\\pru312\\assets\\scripts\\endgamewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endgamewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\assets\\scripts\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\SampleScene.unity||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\SampleScene.unity||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\SampleScene.unity.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\SampleScene.unity.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\MainMenu.unity.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\MainMenu.unity.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\MainMenu.unity||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\MainMenu.unity||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\FootstepController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387592D5-9302-5678-88D8-7C97D80C2A03}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\FootstepController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndGameWatcher.cs",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\EndGameWatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndGameWatcher.cs",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\EndGameWatcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndGameWatcher.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:00:31.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:14:14.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleScene.unity.meta",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\SampleScene.unity.meta",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SampleScene.unity.meta",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\SampleScene.unity.meta",
+              "RelativeToolTip": "Assets\\Scenes\\SampleScene.unity.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-18T02:52:17.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleScene.unity",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\SampleScene.unity",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SampleScene.unity",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\SampleScene.unity",
+              "RelativeToolTip": "Assets\\Scenes\\SampleScene.unity",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACaVLwAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-10-18T02:52:12.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.unity.meta",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\MainMenu.unity.meta",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\MainMenu.unity.meta",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\MainMenu.unity.meta",
+              "RelativeToolTip": "Assets\\Scenes\\MainMenu.unity.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-18T02:52:03.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.unity",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\MainMenu.unity",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\MainMenu.unity",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scenes\\MainMenu.unity",
+              "RelativeToolTip": "Assets\\Scenes\\MainMenu.unity",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-10-18T02:51:59.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayGame.cs",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\PlayGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayGame.cs",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\PlayGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayGame.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:39:22.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:46:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FootstepController.cs",
+              "DocumentMoniker": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\FootstepController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FootstepController.cs",
+              "ToolTip": "E:\\ki-7\\PRU213\\FinalProjectPRU213\\PRU312\\Assets\\Scripts\\FootstepController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FootstepController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:37:22.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
