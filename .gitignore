@@ -1,53 +1,18 @@
-# ===== Unity =====
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Uu]ser[Ss]ettings/
 [Mm]emoryCaptures/
-
-# Chỉ ignore cache trong Packages (giữ manifest & lock)
-[Pp]ackages/PackageCache/
-
-# IDE rác
-.vs/
-.idea/
-
-# File tự sinh của IDE/Unity
-*.csproj
-*.sln
-*.suo
-*.user
-*.userprefs
-*.opendb
-*.VC.db
-*.pdb
-*.mdb
-*.pidb
-*.tmp
-
-# Artefact build
-*.apk
-*.aab
-*.ipa
-
-# OS rác
-.DS_Store
-Thumbs.db
-
-
-[Bb]uild*/
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Ll]ogs/
 UserSettings/
+
+# Visual Studio / .NET
 .vs/
-.idea/
-.vscode/
-*.csproj
-*.sln
-*.unityproj
-*.user
+bin/
+obj/
+
+# Web
+node_modules/
+dist/
