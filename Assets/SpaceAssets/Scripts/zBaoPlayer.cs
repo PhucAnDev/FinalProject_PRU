@@ -26,7 +26,7 @@ public class zBaoPlayer : MonoBehaviour
     {
         // --- Horizontal movement ---
         float moveInput = Input.GetAxis("Horizontal");
-        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
 
         // Flip sprite direction
         if (moveInput > 0)
@@ -38,7 +38,7 @@ public class zBaoPlayer : MonoBehaviour
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, groundLayer);
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             Debug.Log("zBaoPlayer jumped!");
         }
 
