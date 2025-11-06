@@ -78,7 +78,7 @@ Your mission is to **deliver essential supplies without direct contact**, **remi
 
 **🎮Link game:**
 
-[https://yogurtvn.itch.io/control5k](https://yogurtvn.itch .io/control5k)
+[https://yogurtvn.itch.io/control5k]
 
 ---
 
