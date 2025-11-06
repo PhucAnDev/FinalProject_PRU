@@ -76,6 +76,12 @@ Your mission is to **deliver essential supplies without direct contact**, **remi
 
 ---
 
+**🎮Link game:**
+
+[https://yogurtvn.itch.io/control5k](https://yogurtvn.itch .io/control5k)
+
+---
+
 ## ❤️ Tribute
 
 This project honors the **courage, solidarity, and sense of responsibility** of Vietnamese youth during the most challenging days of the COVID-19 pandemic.  
