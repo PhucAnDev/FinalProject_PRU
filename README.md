@@ -28,6 +28,9 @@ Pick Up Item	Walk over item	Automatically collect boxes or supplies
 Drop / Deliver Item	Left-click on item slot	Place item on the ground for delivery
 Pause / Menu	Esc	Open the main menu or exit screen
 
+ActionKey / InputDescriptionMoveW, A, S, D or Arrow KeysMove character in 4 directionsInteract / TalkETalk to NPCs or accept missionsOpen DialogueEDisplays story or task informationPick Up ItemWalk over itemAutomatically collect boxes or suppliesDrop / Deliver ItemLeft-click on item slotPlace item on the ground for deliveryPause / MenuEscOpen the main
+
+menu or exit screen
 ---
 
 💬 Accepting Missions
